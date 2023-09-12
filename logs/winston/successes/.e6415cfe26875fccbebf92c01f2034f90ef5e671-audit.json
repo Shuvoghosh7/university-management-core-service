@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\New folder\\university-management-core-service\\logs\\winston\\successes\\.e6415cfe26875fccbebf92c01f2034f90ef5e671-audit.json",
+    "files": [
+        {
+            "date": 1694544480178,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\New folder\\university-management-core-service\\logs\\winston\\successes\\phu-2023-13-09-00-success.log",
+            "hash": "49d9fb02304f4b17df20c44010fe7ba4024dfe3dd95bf4485311d87c5c12c337"
+        }
+    ],
+    "hashType": "sha256"
+}

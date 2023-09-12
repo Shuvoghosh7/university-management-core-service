@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\.889ca4fe5393ddb4d6d9c455f45b381820dba55a-audit.json",
+    "files": [
+        {
+            "date": 1693417214377,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-30-08-23-success.log",
+            "hash": "29b284ac65ffd82945e480b70fdd40ffe31edcb16222d1121b099e1c4a7c962a"
+        },
+        {
+            "date": 1693492482848,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-31-08-20-success.log",
+            "hash": "c95658a0b3165b156bef3f4ed5a49168474ef2f1db4998ead37e6d0bb998d82f"
+        },
+        {
+            "date": 1693495261072,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-31-08-21-success.log",
+            "hash": "4fd80dcc1f1926339c587324d3dc1ca9b4b42b585571ecb91c8f282e8d7d4478"
+        },
+        {
+            "date": 1693502352101,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-31-08-23-success.log",
+            "hash": "d531f8055df96a564c9c0e3cc2c15ab5aacfb16ef3ea8c50e425e03aea6041a8"
+        },
+        {
+            "date": 1693506211939,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-01-09-00-success.log",
+            "hash": "d2ebc958c32db587780e417ab6ba22c1a7f901f37a617803d360b5b042eacf2a"
+        },
+        {
+            "date": 1693508873794,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-01-09-01-success.log",
+            "hash": "b6745283d334e0f31712078d85736473e72e2177cafbba62717e9841c1d3ea9a"
+        },
+        {
+            "date": 1694440922017,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-11-09-20-success.log",
+            "hash": "efa5c9f60882fca8473d2f01b59e55a0cf1703db234b66e850db202709b55298"
+        },
+        {
+            "date": 1694529016046,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-12-09-20-success.log",
+            "hash": "fe0f37bcccc94b3cbb29f07e884a6fbca1380313d10cc61eee06dc93998ce111"
+        },
+        {
+            "date": 1694531302030,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-12-09-21-success.log",
+            "hash": "c409111ac720614fb9b215e4d9ff3e25e02530faffa92209e1d38fc2a38be612"
+        },
+        {
+            "date": 1694541324167,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-12-09-23-success.log",
+            "hash": "e80fc85210635c882b9706a4b622ac7f440488a176847ff39640672134c3dd18"
+        },
+        {
+            "date": 1694543326715,
+            "name": "H:\\JS With Jhankar Mahbub\\Next Level Web Development\\SQL\\UMCS\\university-management-core-service\\logs\\winston\\successes\\phu-2023-13-09-00-success.log",
+            "hash": "c9df035be934088ea6125d97034127a8d50476fe4e4ab26901537894c94d2a35"
+        }
+    ],
+    "hashType": "sha256"
+}
