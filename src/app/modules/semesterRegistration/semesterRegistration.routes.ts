@@ -9,6 +9,14 @@ const router = express.Router();
 router.get('/', SemesterRegistrationController.getAllFromDB);
 router.get('/:id', SemesterRegistrationController.getByIdFromDB);
 router.post('/', SemesterRegistrationController.insertIntoDB);
+
+router.post(
+  '/start-registration',
+  auth(ENUM_USER_ROLE.STUDENT),
+  SemesterRegistrationController.startMyRegistration
+)
+
+
 router.patch(
   '/:id',
   validateRequest(SemesterRegistrationValidation.update),
